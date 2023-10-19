@@ -1,0 +1,904 @@
+{
+    "1": {
+        "Tweets": [
+            "Just had a delicious lunch!",
+            "Saw a beautiful sunset today.",
+            "Invest today and become a millionaire tomorrow!",
+            "Congratulations, you've won a lottery you never entered! Send us money to claim your prize.",
+            "Discover the secret to eternal youth with our miracle product. Limited stock, act now!",
+            "Make $5,000 a week working from home, no experience required. Just pay for our starter kit!",
+            "Claim your free luxury vacation, but first, share your credit card details with us.",
+            "You owe back taxes, and we're from the IRS! Pay now with gift cards or face arrest.",
+            "Meet singles in your area – just share your personal info and credit card details.",
+            "Double your Bitcoin in 24 hours! Send us your cryptocurrency, and we'll double it for you."
+        ],
+        "Connections": [
+            2,
+            4,
+            7,
+            12,
+            25
+        ]
+    },
+    "2": {
+        "Tweets": [
+            "Working on a new project.",
+            "Coffee is my best friend."
+        ],
+        "Connections": [
+            1,
+            3,
+            8,
+            11,
+            12,
+            26,
+            50
+        ]
+    },
+    "3": {
+        "Tweets": [
+            "Traveling to a new city!",
+            "Love the weekend vibes."
+        ],
+        "Connections": [
+            2,
+            4,
+            9,
+            13,
+            20,
+            27
+        ]
+    },
+    "4": {
+        "Tweets": [
+            "Watching a movie tonight.",
+            "Pizza for dinner!"
+        ],
+        "Connections": [
+            1,
+            3,
+            5,
+            10,
+            14,
+            21,
+            28
+        ]
+    },
+    "5": {
+        "Tweets": [
+            "Gym time!",
+            "Hiking in the mountains."
+        ],
+        "Connections": [
+            4,
+            6,
+            15,
+            22,
+            29,
+            30
+        ]
+    },
+    "6": {
+        "Tweets": [
+            "Feeling creative today.",
+            "Cooked a new recipe."
+        ],
+        "Connections": [
+            5,
+            7,
+            16,
+            23,
+            31,
+            32,
+            30
+        ]
+    },
+    "7": {
+        "Tweets": [
+            "Productive day at work.",
+            "Weekend plans are set!"
+        ],
+        "Connections": [
+            1,
+            6,
+            8,
+            17,
+            24,
+            33,
+            34,
+            31,
+            37
+        ]
+    },
+    "8": {
+        "Tweets": [
+            "Learning a new language.",
+            "Book recommendations, anyone?"
+        ],
+        "Connections": [
+            2,
+            7,
+            9,
+            18,
+            25,
+            35,
+            36,
+            32,
+            36
+        ]
+    },
+    "9": {
+        "Tweets": [
+            "Sunny day for a beach trip.",
+            "Celebrating a friend's birthday.",
+            "Double your Bitcoin investment overnight – send us your funds for fast returns!",
+            "Unlock the secrets of personal finance and achieve your financial goals with these expert tips.",
+            "Invest now in our revolutionary ICO, and watch your profits soar!",
+            "Start a small business from home, no experience required. We'll guide you every step of the way.",
+            "Government job openings: Apply for positions in your field and serve your community.",
+            "Get in on the ground floor of the next Bitcoin - act fast before it's too late!",
+            "Improve your job search skills: Attend our free online workshop for valuable tips and guidance.",
+            "Guaranteed 1000% profit in a week with our crypto trading bot!",
+            "Looking for a legitimate work-from-home opportunity? Check out these job listings in your area.",
+            "Real estate auction alert! Send us a fee to participate and win big!",
+            "Love your job? Share your success story and inspire others to follow their passions.",
+            "Claim your 'free' real estate investment software - just share your credit card info!",
+            "Immediate job offer: Pay us for a background check, and you can start tomorrow!",
+            "Earn big with our proven investment strategy – guaranteed returns! Act fast!",
+            "Government job openings: Apply for positions in your field and serve your community."
+        ],
+        "Connections": [
+            3,
+            8,
+            10,
+            19,
+            26,
+            37,
+            38,
+            37,
+            33
+        ]
+    },
+    "10": {
+        "Tweets": [
+            "Music concert tonight!",
+            "New album release."
+        ],
+        "Connections": [
+            4,
+            9,
+            20,
+            27,
+            39,
+            40,
+            41,
+            34,
+            39,
+            41
+        ]
+    },
+    "11": {
+        "Tweets": [
+            "Coding all night.",
+            "Tech gadgets and innovations."
+        ],
+        "Connections": [
+            2,
+            12,
+            28,
+            42,
+            43,
+            44,
+            44,
+            42,
+            35,
+            27
+        ]
+    },
+    "12": {
+        "Tweets": [
+            "Late-night cravings.",
+            "Movie recommendations, anyone."
+        ],
+        "Connections": [
+            1,
+            2,
+            11,
+            13,
+            29,
+            45,
+            46,
+            47,
+            36,
+            16
+        ]
+    },
+    "13": {
+        "Tweets": [
+            "Sports fan forever.",
+            "Exciting game last night."
+        ],
+        "Connections": [
+            3,
+            12,
+            14,
+            30,
+            48,
+            49,
+            49,
+            37
+        ]
+    },
+    "14": {
+        "Tweets": [
+            "Art and creativity.",
+            "Gallery exhibition this weekend."
+        ],
+        "Connections": [
+            4,
+            13,
+            15,
+            31,
+            32,
+            38,
+            43
+        ]
+    },
+    "15": {
+        "Tweets": [
+            "Pets are family.",
+            "Adopted a new furry friend."
+        ],
+        "Connections": [
+            5,
+            14,
+            16,
+            33,
+            34,
+            32,
+            39,
+            48
+        ]
+    },
+    "16": {
+        "Tweets": [
+            "Traveling the world!",
+            "Exploring new cultures."
+        ],
+        "Connections": [
+            6,
+            15,
+            17,
+            35,
+            36,
+            12,
+            33,
+            40
+        ]
+    },
+    "17": {
+        "Tweets": [
+            "Gourmet food lover.",
+            "Cooking up a storm."
+        ],
+        "Connections": [
+            7,
+            16,
+            18,
+            37,
+            38,
+            41,
+            34
+        ]
+    },
+    "18": {
+        "Tweets": [
+            "Nature lover.",
+            "Hiking and camping adventures."
+        ],
+        "Connections": [
+            8,
+            17,
+            19,
+            39,
+            40,
+            42,
+            41,
+            35,
+            50
+        ]
+    },
+    "19": {
+        "Tweets": [
+            "Science and technology.",
+            "Space exploration.",
+            "Make quick money with our surefire investment strategy!",
+            "You've been selected as our lucky winner - claim your prize now!",
+            "Turn back the clock with our revolutionary anti-aging solution.",
+            "Work from the comfort of your home and earn $5,000 a week!",
+            "Get a free luxury vacation - just provide your credit card information.",
+            "Immediate tax payment needed - call now to avoid legal action!",
+            "Find local singles who are interested - share your details to connect!",
+            "Double your cryptocurrency investment in just 24 hours!",
+            "Boost your credit score fast - just share your SSN and bank details.",
+            "Join our exclusive, invitation-only investment club for big profits!",
+            "You've been pre-approved for a high-limit credit card - act now!",
+            "Unlock the secret to online riches with our proven system!",
+            "Your computer is infected - call our tech support for a quick fix!",
+            "Instant cash loans with no credit check - just wire us an upfront fee!",
+            "Win a brand new car today - send us a small fee for shipping!"
+        ],
+        "Connections": [
+            9,
+            18,
+            20,
+            41,
+            42,
+            36,
+            42,
+            39,
+            43
+        ]
+    },
+    "20": {
+        "Tweets": [
+            "Fashion and style.",
+            "Fashion show this weekend."
+        ],
+        "Connections": [
+            10,
+            19,
+            21,
+            43,
+            44,
+            3,
+            37
+        ]
+    },
+    "21": {
+        "Tweets": [
+            "Classic book lover.",
+            "Discussing literary gems.",
+            "You're a lottery winner, claim your jackpot by sending a small processing fee!",
+            "Congratulations, you've won the international lottery – just wire us a handling fee!",
+            "Claim your prize now! All you need to do is send us a payment for taxes and fees.",
+            "You're the lucky winner of a luxury car in our lottery, but you must pay the delivery fee!",
+            "You've been selected for a huge cash prize - just send a small advance payment to collect!"
+        ],
+        "Connections": [
+            20,
+            22,
+            45,
+            46,
+            39,
+            40,
+            38,
+            4
+        ]
+    },
+    "22": {
+        "Tweets": [
+            "Photography enthusiast.",
+            "Capturing life's moments."
+        ],
+        "Connections": [
+            5,
+            21,
+            23,
+            47,
+            48,
+            48,
+            39,
+            46
+        ]
+    },
+    "23": {
+        "Tweets": [
+            "Fitness journey.",
+            "Healthy lifestyle tips."
+        ],
+        "Connections": [
+            6,
+            22,
+            24,
+            49,
+            46,
+            47,
+            40
+        ]
+    },
+    "24": {
+        "Tweets": [
+            "Movie buffs unite.",
+            "Top movie picks of the year."
+        ],
+        "Connections": [
+            7,
+            23,
+            25,
+            33,
+            48,
+            41
+        ]
+    },
+    "25": {
+        "Tweets": [
+            "Environmental activist.",
+            "Climate change matters."
+        ],
+        "Connections": [
+            1,
+            8,
+            24,
+            26,
+            33,
+            42,
+            38,
+            49
+        ]
+    },
+    "26": {
+        "Tweets": [
+            "Music is life.",
+            "Concerts and playlists."
+        ],
+        "Connections": [
+            2,
+            9,
+            25,
+            27,
+            34,
+            43,
+            34
+        ]
+    },
+    "27": {
+        "Tweets": [
+            "Travel and wanderlust.",
+            "Bucket list destinations.",
+            "Looking for a legitimate work-from-home opportunity? Check out these job listings in your area.",
+            "Earn big with our proven investment strategy – guaranteed returns! Act fast!",
+            "Love your job? Share your success story and inspire others to follow their passions.",
+            "Start a small business from home, no experience required. We'll guide you every step of the way.",
+            "Double your money with our exclusive cryptocurrency trading bot – send us your funds to get started!",
+            "Learn about real estate investment: Avoid common pitfalls and make informed decisions.",
+            "Government job openings: Apply for positions in your field and serve your community.",
+            "Unlock the secrets of personal finance and achieve your financial goals with these expert tips.",
+            "Don't miss out on this limited-time offer! Send us a fee to claim your 'free' luxury vacation.",
+            "Improve your job search skills: Attend our free online workshop for valuable tips and guidance."            
+        ],
+        "Connections": [
+            3,
+            10,
+            26,
+            28,
+            35,
+            44,
+            11,
+            50
+        ]
+    },
+    "28": {
+        "Tweets": [
+            "Gaming community.",
+            "Gaming tips and updates."
+        ],
+        "Connections": [
+            11,
+            27,
+            29,
+            36,
+            45,
+            45,
+            4,
+            35
+        ]
+    },
+    "29": {
+        "Tweets": [
+            "Tech and gadgets.",
+            "Latest tech news and reviews."
+        ],
+        "Connections": [
+            12,
+            28,
+            30,
+            37,
+            46,
+            46,
+            38,
+            5
+        ]
+    },
+    "30": {
+        "Tweets": [
+            "Exploring underwater life.",
+            "Scuba diving adventures."
+        ],
+        "Connections": [
+            6,
+            13,
+            29,
+            31,
+            47,
+            47,
+            48,
+            5
+        ]
+    },
+    "31": {
+        "Tweets": [
+            "Artistic expressions.",
+            "Painting and sculpture creations."
+        ],
+        "Connections": [
+            7,
+            14,
+            30,
+            32,
+            48,
+            48,
+            6
+        ]
+    },
+    "32": {
+        "Tweets": [
+            "Tech innovation enthusiast.",
+            "Future tech trends."
+        ],
+        "Connections": [
+            8,
+            15,
+            31,
+            33,
+            49,
+            6,
+            33,
+            14
+        ]
+    },
+    "33": {
+        "Tweets": [
+            "Fitness goals.",
+            "Daily workout routines.",
+            "Work from home and make $10,000 a week! No experience needed, just pay a fee to get started.",
+            "You're hired! Send us your personal information and bank details for direct deposit.",
+            "Get a high-paying job with no qualifications - just send us an upfront payment for training.",
+            "Dream job alert: Earn big by recruiting others to join our 'exclusive' opportunity.",
+            "Immediate job offer: Pay us for a background check, and you can start tomorrow.",
+            "Freelance jobs available! Just send us your PayPal login info, and we'll pay you promptly.",
+            "Become a mystery shopper and earn big - all you need to do is wire us a fee.",
+            "Guaranteed government job placement - just send us a fee for expedited processing.",
+            "Job seekers, don't miss out! Send us your social security number for a quick job match.",
+            "Your resume caught our eye! To secure the job, send us an enrollment fee right away."
+        ],
+        "Connections": [
+            9,
+            16,
+            32,
+            24,
+            33,
+            25,
+            7,
+            15
+        ]
+    },
+    "34": {
+        "Tweets": [
+            "Wildlife photography.",
+            "Capturing nature's beauty."
+        ],
+        "Connections": [
+            10,
+            17,
+            35,
+            7,
+            26,
+            35,
+            15
+        ]
+    },
+    "35": {
+        "Tweets": [
+            "Culinary delights.",
+            "Foodie adventures."
+        ],
+        "Connections": [
+            11,
+            18,
+            34,
+            36,
+            27,
+            28,
+            16,
+            8
+        ]
+    },
+    "36": {
+        "Tweets": [
+            "Mindfulness and meditation.",
+            "Inner peace journey."
+        ],
+        "Connections": [
+            12,
+            19,
+            35,
+            37,
+            16,
+            8,
+            36,
+            28
+        ]
+    },
+    "37": {
+        "Tweets": [
+            "Space exploration enthusiast.",
+            "Astronomy wonders."
+        ],
+        "Connections": [
+            13,
+            20,
+            36,
+            38,
+            9,
+            38,
+            7,
+            17,
+            29,
+            39
+        ]
+    },
+    "38": {
+        "Tweets": [
+            "Adventure seeker.",
+            "Thrill-seeking experiences.",
+            "Double your Bitcoin investment overnight – send us your funds for fast returns!",
+            "Unlock the secret to crypto riches with our exclusive trading program.",
+            "Invest now in our revolutionary ICO, and watch your profits soar!",
+            "Join our elite crypto club for insider tips on the next big coin.",
+            "Get in on the ground floor of the next Bitcoin - act fast before it's too late!",
+            "Guaranteed 1000% profit in a week with our crypto trading bot!",
+            "Crypto giveaway! Send us Ethereum, and we'll send you more back!",
+            "Your wallet has been compromised - call our tech support to fix it now!",
+            "Earn free crypto by sharing your private keys and wallet info with us.",
+            "Invest in our 'sure thing' crypto project – no risk, all reward!",
+            "Crypto mining made easy - just invest in our mining pool for huge profits!",
+            "Crypto expert reveals the next big coin – buy now before it skyrockets!",
+            "Your crypto account is locked - send us a fee to unlock it immediately.",
+            "We'll manage your crypto investments - just send us your funds and relax!",
+            "Crypto airdrop alert! Just share your personal information to receive free coins.",
+            "Crypto lending platform - send us your assets, and we'll lend them for you!",
+            "Join our crypto trading group for insider tips on market manipulation!",
+            "Instant crypto loans with no credit check - just send us a collateral payment!",
+            "Crypto trading signals – pay us for guaranteed profits in every trade.",
+            "Crypto lottery! Send us funds for a chance to win a lifetime supply of Bitcoin!"
+        ],
+        "Connections": [
+            14,
+            21,
+            37,
+            39,
+            17,
+            29,
+            37,
+            41,
+            25,
+            9,
+            42
+        ]
+    },
+    "39": {
+        "Tweets": [
+            "Vintage car collector.",
+            "Restoration projects."
+        ],
+        "Connections": [
+            15,
+            22,
+            38,
+            40,
+            19,
+            21,
+            41,
+            10,
+            37,
+            18
+        ]
+    },
+    "40": {
+        "Tweets": [
+            "History and archaeology.",
+            "Ancient mysteries."
+        ],
+        "Connections": [
+            16,
+            23,
+            39,
+            41,
+            10,
+            18,
+            41,
+            21
+        ]
+    },
+    "41": {
+        "Tweets": [
+            "DIY enthusiast.",
+            "Crafting and home projects."
+        ],
+        "Connections": [
+            17,
+            24,
+            40,
+            42,
+            38,
+            10,
+            39,
+            19,
+            18
+        ]
+    },
+    "42": {
+        "Tweets": [
+            "Health and wellness.",
+            "Nutrition and fitness tips."
+        ],
+        "Connections": [
+            18,
+            25,
+            41,
+            43,
+            38,
+            11,
+            42,
+            19
+        ]
+    },
+    "43": {
+        "Tweets": [
+            "Fiction and fantasy.",
+            "Imaginative storytelling."
+        ],
+        "Connections": [
+            19,
+            26,
+            42,
+            44,
+            20,
+            11,
+            43,
+            14
+        ]
+    },
+    "44": {
+        "Tweets": [
+            "Motorsport fan.",
+            "Formula 1 and racing updates."
+        ],
+        "Connections": [
+            20,
+            27,
+            43,
+            45,
+            11,
+            44
+        ]
+    },
+    "45": {
+        "Tweets": [
+            "Astrology and horoscopes.",
+            "Celestial predictions."
+        ],
+        "Connections": [
+            21,
+            28,
+            44,
+            46,
+            12,
+            45
+        ]
+    },
+    "46": {
+        "Tweets": [
+            "Craft beer enthusiast.",
+            "Exploring local breweries."
+        ],
+        "Connections": [
+            22,
+            29,
+            45,
+            47,
+            23,
+            12,
+            46,
+            21
+        ]
+    },
+    "47": {
+        "Tweets": [
+            "Fashion and beauty.",
+            "Makeup and style tips."
+        ],
+        "Connections": [
+            23,
+            30,
+            46,
+            48,
+            22,
+            12,
+            47
+        ]
+    },
+    "48": {
+        "Tweets": [
+            "Gardening passion.",
+            "Green thumbs unite!"
+        ],
+        "Connections": [
+            24,
+            31,
+            47,
+            49,
+            15,
+            30,
+            48,
+            13,
+            22
+        ]
+    },
+    "49": {
+        "Tweets": [
+            "Movie buffs unite.",
+            "Top movie picks of the year.",
+            "Invest in our 'guaranteed' real estate opportunity - huge profits await!",
+            "Own a piece of paradise for just a small down payment. Act now!",
+            "Exclusive offer: Buy a luxury home with no credit check and no money down!",
+            "Become a real estate mogul overnight with our secret investment strategy!",
+            "Foreclosed homes at rock-bottom prices - send us your deposit to secure yours!",
+            "Double your money flipping houses - join our real estate seminar today!",
+            "Claim your free real estate guide - just share your personal info with us!",
+            "Own beachfront property for pennies on the dollar - send us your payment now!",
+            "Our real estate investment fund guarantees 20% returns - invest today!",
+            "Rent-to-own your dream home - just send us a security deposit!",
+            "Real estate auction alert! Send us a fee to participate and win big!",
+            "Secret government housing grants available - just send us an application fee!",
+            "Luxury condos available at unbelievable prices - secure yours today!",
+            "Buy real estate with your retirement funds - just pay us the setup fee!",
+            "Join our real estate pyramid scheme - recruit others to earn big!",
+            "Free real estate appraisal - just provide your property details!",
+            "We'll buy your home for cash, no questions asked - just share your details!",
+            "No mortgage needed! Just pay us and you'll own your home outright!",
+            "Real estate timeshare - pay us an upfront fee for exclusive access!",
+            "Foreclosure rescue scam - we'll save your home for a fee!",
+            "Flip houses with our 'guaranteed' system - send us your money to start!",
+            "Real estate seminar: Learn to make millions - register now for a fee!",
+            "Claim your 'free' real estate investment software - just share your credit card info!",
+            "Buy cheap land overseas - just wire us the funds and it's yours!",
+            "Invest in our overseas real estate fund - guaranteed profits, just pay a fee!",
+            "Make thousands in real estate referral fees - join our program for a price!",
+            "Claim your free property management guide - just send us a fee!",
+            "Cash for your home - we'll pay you top dollar, just provide your bank details!",
+            "Become a real estate agent in a week - enroll in our 'school' for a fee!",
+            "Real estate lottery: Send us a payment for a chance to win a luxury villa!"
+        ],
+        "Connections": [
+            25,
+            32,
+            48,
+            23,
+            13,
+            48
+        ]
+    },
+    "50": {
+        "Tweets": [
+            "Movie buffs unite.",
+            "Top movie picks of the year."
+        ],
+        "Connections": [
+            18,
+            27,
+            2
+        ]
+    }
+}
